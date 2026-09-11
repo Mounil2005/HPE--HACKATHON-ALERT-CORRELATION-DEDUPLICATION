@@ -6,7 +6,7 @@
 
 **Synergy 2026 · HPE Problem Statement #10**
 
-[![Live Demo](https://img.shields.io/badge/🌐_Live_Demo-AlertLens-f97316?style=for-the-badge)](https://hpe-hackathon-alert-correlation-ded-eta.vercel.app)
+[![Live Demo](https://img.shields.io/badge/🌐_Live_Demo-AlertLens-f97316?style=for-the-badge)](https://alertlens-inky.vercel.app)
 [![FastAPI](https://img.shields.io/badge/Backend-FastAPI-009688?style=for-the-badge&logo=fastapi&logoColor=white)](https://fastapi.tiangolo.com)
 [![Next.js](https://img.shields.io/badge/Frontend-Next.js_15-000000?style=for-the-badge&logo=next.js&logoColor=white)](https://nextjs.org)
 [![Python](https://img.shields.io/badge/Python-3.9+-3776AB?style=for-the-badge&logo=python&logoColor=white)](https://python.org)
@@ -334,7 +334,7 @@ AlertLens/
 
 ```bash
 # Clone the repository
-git clone https://github.com/Aditya0105singh/HPE--HACKATHON-ALERT-CORRELATION-DEDUPLICATION.git
+git clone https://github.com/Mounil2005/HPE--HACKATHON-ALERT-CORRELATION-DEDUPLICATION.git
 cd HPE--HACKATHON-ALERT-CORRELATION-DEDUPLICATION
 
 # Install backend dependencies
@@ -390,7 +390,7 @@ The application is architected for **zero-cost deployment** on modern PaaS platf
 | **Frontend** | **Vercel** | Connect the GitHub repo and deploy `frontend-next/`. API requests are proxied to the backend via middleware rewrites — zero CORS issues. |
 | **Backend** | **Render** | Deploy as a Python Web Service on Render's Free Tier. TF-IDF (not heavy neural nets) means the entire backend runs comfortably within **512MB RAM**. Set `CEREBRAS_API_KEY` in the dashboard. |
 
-**Live deployment:** [**hpe-hackathon-alert-correlation-ded-eta.vercel.app**](https://hpe-hackathon-alert-correlation-ded-eta.vercel.app)
+**Live deployment:** [**alertlens-inky.vercel.app**](https://alertlens-inky.vercel.app)
 
 ---
 
@@ -447,7 +447,7 @@ Built for **Synergy 2026 — HPE Problem Statement #10**
 
 <br/>
 
-[![GitHub](https://img.shields.io/badge/GitHub-Repository-181717?style=for-the-badge&logo=github)](https://github.com/Aditya0105singh/HPE--HACKATHON-ALERT-CORRELATION-DEDUPLICATION)
-[![Live Demo](https://img.shields.io/badge/🌐_Try_It_Live-AlertLens-f97316?style=for-the-badge)](https://hpe-hackathon-alert-correlation-ded-eta.vercel.app)
+[![GitHub](https://img.shields.io/badge/GitHub-Repository-181717?style=for-the-badge&logo=github)](https://github.com/Mounil2005/HPE--HACKATHON-ALERT-CORRELATION-DEDUPLICATION)
+[![Live Demo](https://img.shields.io/badge/🌐_Try_It_Live-AlertLens-f97316?style=for-the-badge)](https://alertlens-inky.vercel.app)
 
 </div>
