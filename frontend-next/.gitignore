@@ -52,3 +52,6 @@ public/monaco-workers/
 
 # TypeScript build info
 tsconfig.tsbuildinfo
+
+.vercel
+.env*
